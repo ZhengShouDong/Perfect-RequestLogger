@@ -5,7 +5,7 @@ let package = Package(
 	name: "PerfectRequestLogger",
 	targets: [],
 	dependencies: [
-		.Package(url: "https://github.com/PerfectlySoft/Perfect-Logger.git", majorVersion: 3),
+		.Package(url: "https://github.com/ZhengShouDong/Perfect-Logger.git", majorVersion: 3),
 		.Package(url: "https://github.com/PerfectlySoft/Perfect-HTTPServer.git", majorVersion: 3),
 		.Package(url: "https://github.com/iamjono/SwiftRandom.git", majorVersion: 0),
 	]
